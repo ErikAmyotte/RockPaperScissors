@@ -1,0 +1,1 @@
+This is a repo for my attempt at the Rock, Paper, Scissors assignment with 'The Odin Project' Please feel free to critic and offer advice.
